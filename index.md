@@ -140,8 +140,8 @@ Twitterアカウントは、部員なら一応誰でも投稿していいとい�
 
 とりあえず以上です。皆さんがプログラミングを楽しんでくれることを願っています。
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.0.0/mermaid.min.js"></script>
-<script>
+<script type="module">
+   import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10.1.0/+esm'
    mermaid.initialize({
        startOnLoad:true,
        theme: 'default'
