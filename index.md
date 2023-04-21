@@ -139,9 +139,8 @@ Twitterアカウントは、部員なら一応誰でも投稿していいとい�
 ## 終わりに
 
 とりあえず以上です。皆さんがプログラミングを楽しんでくれることを願っています。
-
 <script type="module">
-  import mermaid from https://cdn.jsdelivr.net/npm/mermaid@10.1.0/+esm;
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10.1.0/+esm';
   mermaid.initialize({
       startOnLoad:true,
       theme: 'default'
