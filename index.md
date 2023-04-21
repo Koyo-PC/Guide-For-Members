@@ -139,3 +139,12 @@ Twitterアカウントは、部員なら一応誰でも投稿していいとい�
 ## 終わりに
 
 とりあえず以上です。皆さんがプログラミングを楽しんでくれることを願っています。
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.0.0/mermaid.min.js"></script>
+<script>
+   mermaid.initialize({
+       startOnLoad:true,
+       theme: 'default'
+   });
+   window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
+</script>
