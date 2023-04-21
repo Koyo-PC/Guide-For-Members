@@ -145,5 +145,5 @@ Twitterアカウントは、部員なら一応誰でも投稿していいとい�
       startOnLoad:true,
       theme: 'default'
   });
-  window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
+  mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
 </script>
