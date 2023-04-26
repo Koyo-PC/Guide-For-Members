@@ -49,12 +49,12 @@ PCを持って帰るのが重い、学校に置いていきたい、という人
 
 特にやりたいことはないなあ、まずはプログラミングできるようになろうかな、という人も多いと思うので、そういう人向けに資料を作っています。まだ最初の方しかできていませんが、まずは読んでみてください。
 
-1. [基本的なプログラム](https://www.slideshare.net/ZOIdayo/1-257348878)
-2. [複雑なデータの扱い](https://www.slideshare.net/ZOIdayo/2-pdf-257374485)
-3. [コードを書く](https://www.slideshare.net/ZOIdayo/3-257433984)
-4. [ターミナルを使いこなす](https://www.slideshare.net/ZOIdayo/4-257470098)
-5. [競プロをやってみよう](https://www.slideshare.net/ZOIdayo/5-257518529)
-6. [競プロのテクニック(初級)](https://www.slideshare.net/ZOIdayo/6-257570674)
+1. [基本的なプログラム](https://www.docswell.com/s/ZOI_dayo/ZENXWG-Programming-01)
+2. [複雑なデータの扱い](https://www.docswell.com/s/ZOI_dayo/ZYWD73-Programming-02)
+3. [コードを書く](https://www.docswell.com/s/ZOI_dayo/5NR1NW-Programming-03)
+4. [ターミナルを使いこなす](https://www.docswell.com/s/ZOI_dayo/Z6YVLW-Programming-04)
+5. [競プロをやってみよう](https://www.docswell.com/s/ZOI_dayo/ZVV18Q-Programming-05)
+6. [競プロのテクニック(初級)](https://www.docswell.com/s/ZOI_dayo/Z1JRMV-Programming-06)
 7. (製作中)
 
 技術ツリー的なやつはこんな感じだと思います(A→BはBをやるためにAが必要なことを、また点線は色々省略してるところを表します。また、四角は説明スライド(上記)、角丸四角形は分野です)
