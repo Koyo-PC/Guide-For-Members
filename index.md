@@ -55,7 +55,8 @@ PCを持って帰るのが重い、学校に置いていきたい、という人
 4. [ターミナルを使いこなす](https://www.docswell.com/s/ZOI_dayo/Z6YVLW-Programming-04)
 5. [競プロをやってみよう](https://www.docswell.com/s/ZOI_dayo/ZVV18Q-Programming-05)
 6. [競プロのテクニック(初級)](https://www.docswell.com/s/ZOI_dayo/Z1JRMV-Programming-06)
-7. (製作中)
+7. [コンピュータを「理解」する](https://www.docswell.com/s/ZOI_dayo/KYWD69-Programming-07)
+8. (製作中)
 
 技術ツリー的なやつはこんな感じだと思います(A→BはBをやるためにAが必要なことを、また点線は色々省略してるところを表します。また、四角は説明スライド(上記)、角丸四角形は分野です)
 
@@ -79,10 +80,10 @@ Net -.-> Server([サーバー管理])
 Web -.-> HardWeb([高度なWeb開発])
 #3 --> #5[#5 競プロをやってみよう]
 #5 --> #6["#6 競プロのテクニック(初級)"]
-#6 -.-> 競プロer([競技プログラミラマー])
+#6 -.-> 競プロer([競技プログラマー])
 Algo([アルゴリズム]) -.-> 競プロer
 #6 -.-> Algo
-Computer([PCの構造]) -.-> C++([C++])
+#7["#7 コンピュータを「理解」する"] --> C++([C++])
 C++ -.-> 競プロer
 #4 -.-> C++
 #4 -.-> Linux([Linux])
