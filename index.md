@@ -57,7 +57,8 @@ PCを持って帰るのが重い、学校に置いていきたい、という人
 6. [競プロのテクニック(初級)](https://www.docswell.com/s/ZOI_dayo/Z1JRMV-Programming-06)
 7. [コンピュータを「理解」する](https://www.docswell.com/s/ZOI_dayo/KYWD69-Programming-07)
 8. [C++でのCUIゲーム開発](https://www.docswell.com/s/ZOI_dayo/ZLL1WQ-Programming-08) 
-9. (製作中)
+9. [デザインの基礎](https://www.docswell.com/s/ZOI_dayo/KENXPR-Programming-09)
+10. (製作中)
 
 技術ツリー的なやつはこんな感じだと思います(A→BはBをやるためにAが必要なことを、また実線はスライドで習得できそうなところを表しています。また、四角は説明スライド(上記)、角丸四角形は分野です)
 
@@ -72,6 +73,7 @@ flowchart LR
 %% #2 --> #5
 #3 -.-> JS
 #3 -.-> HTML([HTML])
+#9[#9 デザインの基礎] --> Design
 Design([デザイン]) -.-> CSS([CSS])
 HTML -.-> CSS
 CSS -.-> Web([Web開発])
