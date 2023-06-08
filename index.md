@@ -58,7 +58,8 @@ PCを持って帰るのが重い、学校に置いていきたい、という人
 7. [コンピュータを「理解」する](https://www.docswell.com/s/ZOI_dayo/KYWD69-Programming-07)
 8. [C++でのCUIゲーム開発](https://www.docswell.com/s/ZOI_dayo/ZLL1WQ-Programming-08) 
 9. [デザインの基礎](https://www.docswell.com/s/ZOI_dayo/KENXPR-Programming-09)
-10. (製作中)
+10. [インターネット](https://www.docswell.com/s/ZOI_dayo/ZM1L68-Programming-10)
+11. (製作中)
 
 技術ツリー的なやつはこんな感じだと思います(A→BはBをやるためにAが必要なことを、また実線はスライドで習得できそうなところを表しています。また、四角は説明スライド(上記)、角丸四角形は分野です)
 
@@ -78,7 +79,8 @@ Design([デザイン]) -.-> CSS([CSS])
 HTML -.-> CSS
 CSS -.-> Web([Web開発])
 JS -.-> Web
-Web -.-> Net([ネットワーク])
+Web --> #10[#10 インターネット]
+#10 -.-> Net([ネットワーク])
 Net -.-> Server([サーバー管理])
 Web -.-> HardWeb([高度なWeb開発])
 #7["#7 コンピュータを「理解」する"] --> Pointer([ポインタ])
